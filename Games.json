@@ -1,0 +1,205 @@
+{
+  "game":
+  [
+  {
+    "id": 1,
+    "title": "Ghost of Yōtei",
+    "genre": "Action-Adventure",
+    "price": 69.99,
+    "stock": 15,
+    "rating": 4.9,
+    "release_date": "2025-10-15",
+    "image": "https://m.media-amazon.com/images/I/81p8hiryVYL._SX425_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Grand Theft Auto VI",
+    "genre": "Open World",
+    "price": 79.99,
+    "stock": 0,
+    "rating": 5,
+    "release_date": "2025-11-20",
+    "image": "https://sheenugamecenter.com/wp-content/uploads/2024/01/GTA_6_PS5.webp"
+  },
+  {
+    "id": 3,
+    "title": "God of War Ragnarök",
+    "genre": "Action RPG",
+    "price": 69.99,
+    "stock": 42,
+    "rating": 4.8,
+    "release_date": "2022-11-09",
+    "image": "https://m.media-amazon.com/images/I/613lyxBIXoL._SX679_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Marvel's Spider-Man 2",
+    "genre": "Action",
+    "price": 49.99,
+    "stock": 28,
+    "rating": 4.7,
+    "release_date": "2023-10-20",
+    "image": "https://m.media-amazon.com/images/I/81qBiCSoegL._SX425_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Monster Hunter Wilds",
+    "genre": "RPG",
+    "price": 69.99,
+    "stock": 10,
+    "rating": 4.6,
+    "release_date": "2025-02-28",
+    "image": "https://m.media-amazon.com/images/I/716uZY-VhiL._SX679_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Death Stranding 2",
+    "genre": "Adventure",
+    "price": 69.99,
+    "stock": 21,
+    "rating": 4.5,
+    "release_date": "2025-05-12",
+    "image": "https://m.media-amazon.com/images/I/61AqJ0dd2XL._SX679_.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Astro Bot",
+    "genre": "Platformer",
+    "price": 59.99,
+    "stock": 50,
+    "rating": 4.9,
+    "release_date": "2024-09-06",
+    "image": "https://m.media-amazon.com/images/I/81LP4ZU1OSL._SX679_.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Elden Ring: Erdtree",
+    "genre": "Soulslike",
+    "price": 79.99,
+    "stock": 8,
+    "rating": 4.9,
+    "release_date": "2024-06-21",
+    "image": "https://m.media-amazon.com/images/I/71Jv78rB2pL._SX569_.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Horizon Forbidden West",
+    "genre": "Action RPG",
+    "price": 39.99,
+    "stock": 15,
+    "rating": 4.8,
+    "release_date": "2022-02-18",
+    "image": "https://m.media-amazon.com/images/I/81z5odDv12L._SX679_.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Helldivers 2",
+    "genre": "Shooter",
+    "price": 39.99,
+    "stock": 100,
+    "rating": 4.7,
+    "release_date": "2024-02-08",
+    "image": "https://m.media-amazon.com/images/I/51nBXV9u+jL.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Last of Us Part II Remastered",
+    "genre": "Survival Horror",
+    "price": 49.99,
+    "stock": 12,
+    "rating": 4.9,
+    "release_date": "2024-01-19",
+    "image": "https://m.media-amazon.com/images/I/61EbT7RG45L._SX522_.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Final Fantasy VII Rebirth",
+    "genre": "JRPG",
+    "price": 69.99,
+    "stock": 33,
+    "rating": 4.8,
+    "release_date": "2024-02-29",
+    "image": "https://m.media-amazon.com/images/I/71PCf88TwoL._SX569_.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Stellar Blade",
+    "genre": "Action",
+    "price": 69.99,
+    "stock": 14,
+    "rating": 4.6,
+    "release_date": "2024-04-26",
+    "image": "https://m.media-amazon.com/images/I/81lrq6YHCJL._SX679_.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Rise of the Ronin",
+    "genre": "Action RPG",
+    "price": 69.99,
+    "stock": 9,
+    "rating": 4.4,
+    "release_date": "2024-03-22",
+    "image": "https://m.media-amazon.com/images/I/81bdHfX40rL._SX679_.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Ratchet & Clank: Rift Apart",
+    "genre": "Platformer",
+    "price": 29.99,
+    "stock": 40,
+    "rating": 4.7,
+    "release_date": "2021-06-11",
+    "image": "https://m.media-amazon.com/images/I/71sR60hYpbS._SX569_.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Gran Turismo 7",
+    "genre": "Racing",
+    "price": 59.99,
+    "stock": 25,
+    "rating": 4.5,
+    "release_date": "2022-03-04",
+    "image": "https://m.media-amazon.com/images/I/615oVIQPDZL._SX522_.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Returnal",
+    "genre": "Roguelike",
+    "price": 29.99,
+    "stock": 10,
+    "rating": 4.6,
+    "release_date": "2021-04-30",
+    "image": "https://m.media-amazon.com/images/I/71kEwiRf03L._SX569_.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Demon's Souls",
+    "genre": "Action RPG",
+    "price": 34.99,
+    "stock": 18,
+    "rating": 4.7,
+    "release_date": "2020-11-12",
+    "image": "https://m.media-amazon.com/images/I/51cDGx2azvL._SX342_SY445_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Cyberpunk 2077: Ultimate",
+    "genre": "RPG",
+    "price": 49.99,
+    "stock": 20,
+    "rating": 4.7,
+    "release_date": "2023-12-05",
+    "image": "https://m.media-amazon.com/images/I/81zzIcCKjgL._SX679_.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Sackboy: A Big Adventure",
+    "genre": "Platformer",
+    "price": 19.99,
+    "stock": 50,
+    "rating": 4.6,
+    "release_date": "2020-11-12",
+    "image": "https://m.media-amazon.com/images/I/61bZUpyGbVL._SX679_.jpg"
+  }
+]
+}
